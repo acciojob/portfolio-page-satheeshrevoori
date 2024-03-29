@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+.portfoliao  
+ {
+     background-color: rgb(235, 61, 61);
+     color: aliceblue;
+     height: 400px;
+     width: 350px;
+     padding: 20px;
+     opacity: 1.5;
+ }
+
+ #skills 
+  {
+    background-color: aquamarine;
+    width:200px
+  }
+  #projects 
+  {
+    background-color: rgb(14, 100, 72);
+    width:200px
+  }
+
+  h3 {
+    color:red;
+    font-family: 'Courier New', Courier, monospace;
+  }
